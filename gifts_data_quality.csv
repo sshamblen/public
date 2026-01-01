@@ -2,15 +2,15 @@
 1,"Anderson County Health Department","710 N. Main Street, Suite A","Clinton","TN",37716,8654258800,"No",1,"Anderson","East",0.0158730158730159,0,7
 2,"Bedford County Health Department","140 Dover Street","Shelbyville","TN",37160,9316843426,"No",2,"Bedford","South Central",0.0158730158730159,0,21
 3,"Benton County Health Department","225 Hospital Drive","Camden","TN",38320,7315844944,"No",3,"Benton","West",0,0,2
-4,"Bledsoe County Health Department","334 Frazier Street","Pikeville","TN",37367,4234472149,"No",4,"Bledsoe","Southeast",0,0.0526315789473684,4
+4,"Bledsoe County Health Department","334 Frazier Street","Pikeville","TN",37367,4234472149,"No",4,"Bledsoe","Southeast",0,0.0476190476190476,5
 6,"Bradley County Health Department","201 Dooley Street SE","Cleveland","TN",37311,4237287020,"No",6,"Bradley","Southeast",0.0148148148148148,0.368421052631579,30
-7,"Campbell County Health Department","162 Sharp-Perkins Road","Jacksboro","TN",37757,4235628351,"No",7,"Campbell","East",0.148148148148148,0.25,3
-10,"Carter County Health Department","403 East G Street","Elizabethton","TN",37643,4235432521,"No",10,"Carter","Northeast",0.00427350427350427,0,26
+7,"Campbell County Health Department","162 Sharp-Perkins Road","Jacksboro","TN",37757,4235628351,"No",7,"Campbell","East",0.148148148148148,0.2,3
+10,"Carter County Health Department","403 East G Street","Elizabethton","TN",37643,4235432521,"No",10,"Carter","Northeast",0.00383141762452107,0,29
 11,"Cheatham County Health Department","162 John Mayfield Dr., Ste. 200","Ashland City","TN",37015,6157924318,"No",11,"Cheatham","Mid-Cumberland",0,0,1
 12,"Chester County Health Department","301 Quinco Drive","Henderson","TN",38340,7319897108,"No",12,"Chester","West",0,0,2
 14,"Clay County Health Department","115 Guffey Street","Celina","TN",38551,9312432651,"No",14,"Clay","Upper Cumberland",0.0444444444444444,0,5
 15,"Cocke County Health Department","430 College Street","Newport","TN",37821,4236238733,"No",15,"Cocke","East",0.0444444444444444,0,5
-16,"Coffee County Health Department","615 Wilson Avenue","Tullahoma","TN",37388,9314559369,"No",16,"Coffee","South Central",0,0.00448430493273543,47
+16,"Coffee County Health Department","615 Wilson Avenue","Tullahoma","TN",37388,9314559369,"No",16,"Coffee","South Central",0,0.004149377593361,49
 17,"Crockett County Health Department","209 North Bells Street ","Alamo","TN",38001,7316962505,"No",17,"Crockett","West",0,0,3
 18,"Cumberland County Health Department","1503 S. Main St","Crossville","TN",38555,9314846196,"No",18,"Cumberland","Upper Cumberland",0,0.0327868852459016,12
 19,"Decatur County Health Department","155 North Pleasant Street  ","Decaturville","TN",38329,7318522461,"No",20,"Decatur","West",0,0,4
@@ -22,44 +22,44 @@
 28,"Gibson County Health Department (Humboldt)","149 12th Street ","Humboldt","TN",38343,7317845491,"No",27,"Gibson","West",0,0,1
 30,"Giles County Health Department","209 South Cedar Lane","Pulaski","TN",38478,9313635506,"No",28,"Giles","South Central",0.00462962962962963,0,24
 31,"Grainger County Health Department","185 Justice Center Drive","Rutledge","TN",37861,8658285247,"No",29,"Grainger","East",0,0,4
-32,"Greene County Health Department","810 W. Church Street","Greeneville","TN",37744,4237981749,"No",30,"Greene","Northeast",0.00595238095238095,0.0106382978723404,56
-33,"Grundy County Health Department","1372 Main Street","Altamont","TN",37301,9316923641,"No",31,"Grundy","Southeast",0,0.06,31
+32,"Greene County Health Department","810 W. Church Street","Greeneville","TN",37744,4237981749,"No",30,"Greene","Northeast",0.0053763440860215,0.00961538461538462,62
+33,"Grundy County Health Department","1372 Main Street","Altamont","TN",37301,9316923641,"No",31,"Grundy","Southeast",0,0.0576923076923077,32
 35,"Hamilton County Health Department","921 E. 3rd Street","Chattanooga","TN",37403,4232098383,"Yes",33,"Hamilton","Hamilton",0.0277777777777778,0.0192307692307692,8
-36,"Hancock County Health Department","178 Willow Street","Sneedville","TN",37869,4237332228,"No",34,"Hancock","Northeast",0.0166666666666667,0.0087719298245614,20
+36,"Hancock County Health Department","178 Willow Street","Sneedville","TN",37869,4237332228,"No",34,"Hancock","Northeast",0.0166666666666667,0.00813008130081301,20
 37,"Hardeman County Health Department","10825 Old Highway 64","Bolivar","TN",38008,7316585291,"No",35,"Hardeman","West",0,0,3
 38,"Hardin County Health Department","1920 Pickwick Street","Savannah","TN",38372,7319252557,"No",36,"Hardin","West",0.00505050505050505,0,22
-39,"Hawkins County Health Department - Church Hill","247 Silver Lake Road","Church Hill","TN",37642,4233575341,"No",37,"Hawkins","Northeast",0.00472813238770686,0.00757575757575758,47
-40,"Hawkins County Health Department - Rogersville","201 Park Blvd.","Rogersville","TN",37857,4232727641,"No",37,"Hawkins","Northeast",0.00719424460431655,0.00273972602739726,139
+39,"Hawkins County Health Department - Church Hill","247 Silver Lake Road","Church Hill","TN",37642,4233575341,"No",37,"Hawkins","Northeast",0.00472813238770686,0.00746268656716418,47
+40,"Hawkins County Health Department - Rogersville","201 Park Blvd.","Rogersville","TN",37857,4232727641,"No",37,"Hawkins","Northeast",0.00671140939597315,0.00261096605744125,149
 42,"Henderson County Health Department","90 Rush Street","Lexington","TN",38351,7319688148,"No",39,"Henderson","West",0.0130718954248366,0,17
 43,"Henry County Health Department","803 Joy Street","Paris","TN",38242,7316424025,"No",40,"Henry","West",0,0,2
 44,"Hickman County Health Department","111 Murphree Avenue","Centerville","TN",37033,9317293516,"No",41,"Hickman","South Central",0,0,11
 45,"Houston County Health Department","60 East Court Sq.","Erin","TN",37061,9312893463,"No",42,"Houston","Mid-Cumberland",0.111111111111111,0,1
 48,"Jefferson County Health Department","931 Industrial Park Road, Suite 200","Dandridge","TN",37725,8653973930,"No",45,"Jefferson","East",0,0,8
-49,"Johnson County Health Department","715 W. Main Street","Mountain City","TN",37683,4237279731,"No",46,"Johnson","Northeast",0.0170940170940171,0,13
+49,"Johnson County Health Department","715 W. Main Street","Mountain City","TN",37683,4237279731,"No",46,"Johnson","Northeast",0.0238095238095238,0,14
 51,"Lake County Health Department","400 Carl Perkins Parkway","Tiptonville","TN",38079,7312539954,"No",48,"Lake","West",0,0,1
 52,"Lauderdale County Health Department","500 Highway 51","South Ripley","TN",38063,7316359711,"No",49,"Lauderdale","West",0.111111111111111,0,1
-53,"Lawrence County Health Department","2379 Buffalo Road","Lawrenceburg","TN",38464,9317629406,"No",50,"Lawrence","South Central",0.0148148148148148,0.00862068965517241,45
-54,"Lewis County Health Department","51 Smith Avenue","Hohenwald","TN",38462,9317962204,"No",51,"Lewis","South Central",0,0,10
-55,"Lincoln County Health Department","1000 Washington Street West, Suite A","Fayetteville","TN",37334,9314333231,"No",52,"Lincoln","South Central",0.00467836257309942,0.0034965034965035,95
-57,"Macon County Health Department","601 Highway 52 By-Pass East","Lafayette","TN",37083,6156662142,"No",54,"Macon","Upper Cumberland",0.0101010101010101,0,11
+53,"Lawrence County Health Department","2379 Buffalo Road","Lawrenceburg","TN",38464,9317629406,"No",50,"Lawrence","South Central",0.0144927536231884,0.00819672131147541,46
+54,"Lewis County Health Department","51 Smith Avenue","Hohenwald","TN",38462,9317962204,"No",51,"Lewis","South Central",0,0,11
+55,"Lincoln County Health Department","1000 Washington Street West, Suite A","Fayetteville","TN",37334,9314333231,"No",52,"Lincoln","South Central",0.00453514739229025,0.00323624595469256,98
+57,"Macon County Health Department","601 Highway 52 By-Pass East","Lafayette","TN",37083,6156662142,"No",54,"Macon","Upper Cumberland",0.00925925925925926,0,12
 58,"Madison County Health Department","804 N Parkway (Main Facility)","Jackson","TN",38305,7314233020,"Yes",55,"Madison","Madison",0.5,0,26
-59,"Marion County Health Department","24 East 7th Street","Jasper","TN",37347,4239422238,"No",56,"Marion","Southeast",0.0185185185185185,0.0606060606060606,42
-60,"Marshall County Health Department","1031 War Eagle Drive","Lewisburg","TN",37091,9313591551,"No",57,"Marshall","South Central",0.0105820105820106,0,42
+59,"Marion County Health Department","24 East 7th Street","Jasper","TN",37347,4239422238,"No",56,"Marion","Southeast",0.0180878552971576,0.0597014925373134,43
+60,"Marshall County Health Department","1031 War Eagle Drive","Lewisburg","TN",37091,9313591551,"No",57,"Marshall","South Central",0.0101010101010101,0,44
 61,"Maury County Health Department ","1909 Hampshire Pike","Columbia","TN",38401,9313885757,"No",58,"Maury","South Central",0.00694444444444444,0,16
-62,"McMinn County Health Department","393 County Road 554","Athens","TN",37303,4237457431,"No",59,"McMinn","Southeast",0.0128205128205128,0,26
+62,"McMinn County Health Department","393 County Road 554","Athens","TN",37303,4237457431,"No",59,"McMinn","Southeast",0.0123456790123457,0,27
 63,"McNairy County Health Department","725 East Poplar","Selmer","TN",38375,7316453474,"No",60,"McNairy","West",0,0.0181818181818182,27
-64,"Meigs County Health Department","389 River Road","Decatur","TN",37322,4233345185,"No",61,"Meigs","Southeast",0,0.131578947368421,47
-65,"Monroe County Health Department","3469 New Highway 68, Suite A","Madisonville","TN",37354,4234423993,"No",62,"Monroe","East",0.253968253968254,0,7
+64,"Meigs County Health Department","389 River Road","Decatur","TN",37322,4233345185,"No",61,"Meigs","Southeast",0,0.1625,50
+65,"Monroe County Health Department","3469 New Highway 68, Suite A","Madisonville","TN",37354,4234423993,"No",62,"Monroe","East",0.222222222222222,0,8
 66,"Montgomery County Health Department","330 Pageant Lane","Clarksville","TN",37040,9316485747,"No",63,"Montgomery","Mid-Cumberland",0.0296296296296296,0,15
 67,"Moore County Health Department","251 Majors Boulevard","Lynchburg","TN",37352,9317594251,"No",64,"Moore","South Central",0,0,1
 68,"Morgan County Health Department","1103 Knoxville Highway","Wartburg","TN",37887,4233466272,"No",65,"Morgan","East",0,0,1
-69,"Nashville Metro Health Department","2500 Charlotte Ave","Nashville","TN",37209,6153405616,"Yes",19,"Davidson","Davidson",0,0,10
+69,"Nashville Metro Health Department","2500 Charlotte Ave","Nashville","TN",37209,6153405616,"Yes",19,"Davidson","Davidson",0,0,11
 70,"Obion County Health Department","1008 Mt. Zion Rd","Union City","TN",38261,7318858722,"No",66,"Obion","West",0,0,11
 71,"Overton County Health Department","5880 Bradford-Hicks Drive","Livingston","TN",38570,9318236260,"No",67,"Overton","Upper Cumberland",0.0277777777777778,0,4
 72,"Perry County Health Department","31 Medical Drive","Linden","TN",37096,9315892138,"No",68,"Perry","South Central",0,0,6
 73,"Pickett County Health Department","1013 Woodlawn Drive","Byrdstown","TN",38549,9318643178,"No",69,"Pickett","Upper Cumberland",0,0,2
 74,"Polk County Health Department - Benton","2279 Parksville Road","Benton","TN",37307,4233384533,"No",70,"Polk","Southeast",0,0.0121951219512195,32
-75,"Polk County Health Department - Copperhill","840 Cherokee Trail","Copperhill","TN",37317,4234963275,"No",70,"Polk","Southeast",0,0,7
+75,"Polk County Health Department - Copperhill","840 Cherokee Trail","Copperhill","TN",37317,4234963275,"No",70,"Polk","Southeast",0,0,8
 76,"Putnam County Health Department","701 County Services Rd.","Cookeville","TN",38501,9315282531,"No",71,"Putnam","Upper Cumberland",0,0,7
 77,"Rhea County Health Department","344 Eagle Lane","Evensville","TN",37332,4237757819,"No",72,"Rhea","Southeast",0.0344827586206897,0,29
 78,"Roane County Health Department","1362 North Gateway Avenue","Rockwood","TN",37854,8653541220,"No",73,"Roane","East",0,0,1
@@ -68,14 +68,14 @@
 82,"Scott County Health Department","344 Court Street","Huntsville","TN",37756,4236632445,"No",76,"Scott","East",0,0,2
 83,"Sequatchie County Health Department","16939 Rankin Ave. North","Dunlap","TN",37327,4239493619,"No",77,"Sequatchie","Southeast",0.0277777777777778,0.111111111111111,4
 84,"Sevier County Health Department","719 Middle Creek","Sevierville","TN",37862,8654531032,"No",78,"Sevier","East",0,0,8
-85,"Shelby County Health Department","814 Jefferson Avenue","Memphis","TN",38105,9012229000,"Yes",79,"Shelby","Shelby",0.0109289617486339,0.253246753246753,61
+85,"Shelby County Health Department","814 Jefferson Avenue","Memphis","TN",38105,9012229000,"Yes",79,"Shelby","Shelby",0.0105820105820106,0.25077399380805,63
 86,"Smith County Health Department","251 Joy Alford Way","Carthage","TN",37030,6157350242,"No",80,"Smith","Upper Cumberland",0,NA,2
 87,"Stewart County Health Department","1021 Spring St.","Dover","TN",37058,9312325329,"No",81,"Stewart","Mid-Cumberland",0.0740740740740741,0,6
 89,"Sumner County Health Department","1005 Union School Rd.","Gallatin","TN",37066,6152061100,"No",83,"Sumner","Mid-Cumberland",0,0,5
 91,"Sumner County Health Department (Portland)","214 West Longview Dr.","Portland","TN",37148,6153255237,"No",83,"Sumner","Mid-Cumberland",0,0,19
-94,"Unicoi County Health Department","101 Okolona Drive","Erwin","TN",37650,4237439103,"No",86,"Unicoi","Northeast",0,0,15
+94,"Unicoi County Health Department","101 Okolona Drive","Erwin","TN",37650,4237439103,"No",86,"Unicoi","Northeast",0,0,16
 97,"Warren County Health Department","1401 Sparta Street","McMinnville","TN",37110,9314736160,"No",89,"Warren","Upper Cumberland",0,0,1
-98,"Washington County Health Department","219 Princeton Road","Johnson City","TN",37601,4239752200,"No",90,"Washington","Northeast",0.108333333333333,0.0816326530612245,40
+98,"Washington County Health Department","219 Princeton Road","Johnson City","TN",37601,4239752200,"No",90,"Washington","Northeast",0.105691056910569,0.0769230769230769,41
 99,"Wayne County Health Department","725 South Main Street","Waynesboro","TN",38485,9317223292,"No",91,"Wayne","South Central",0,0,15
 100,"Weakley County Health Department","9852 Highway 22","Dresden","TN",38225,7313642210,"No",92,"Weakley","West",0,0,4
 101,"White County Health Department","135 Walker Street","Sparta","TN",38583,9318362201,"No",93,"White","Upper Cumberland",0.0555555555555556,0,2
