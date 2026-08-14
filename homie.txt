@@ -1,15 +1,15 @@
 *** UPTIME ***
 
- 16:00:00 up 3 days, 20:16,  0 users,  load average: 0.05, 0.01, 0.00
+ 20:00:00 up 15 min,  0 users,  load average: 0.00, 0.00, 0.00
 
 
 *** MEMORY INFORMATION ***
 
-MemTotal:        1893576 kB
-MemFree:          262176 kB
-MemAvailable:    1625860 kB
-Buffers:           44204 kB
-Cached:          1417336 kB
+MemTotal:        1893580 kB
+MemFree:         1689336 kB
+MemAvailable:    1657888 kB
+Buffers:            9392 kB
+Cached:            46220 kB
 
 
 *** DISK INFORMATION ***
@@ -17,11 +17,11 @@ Cached:          1417336 kB
 Filesystem                Size      Used Available Use% Mounted on
 devtmpfs                 10.0M         0     10.0M   0% /dev
 shm                     924.6M         0    924.6M   0% /dev/shm
-/dev/mmcblk0p2            3.2G      1.8G      1.3G  58% /
-tmpfs                   369.8M    132.0K    369.7M   0% /run
+/dev/mmcblk0p2            3.2G      1.7G      1.3G  57% /
+tmpfs                   369.8M    128.0K    369.7M   0% /run
 /dev/mmcblk0p1          271.1M     37.2M    214.9M  15% /boot
 /dev/sda1                14.6G      1.6G     12.3G  11% /home
-tmpfs                   924.6M      2.0M    922.6M   0% /tmp
+tmpfs                   924.6M         0    924.6M   0% /tmp
 
 
 *** NETWORK INFORMATION ***
@@ -29,14 +29,15 @@ tmpfs                   924.6M      2.0M    922.6M   0% /tmp
 eth0      Link encap:Ethernet  HWaddr 00:80:64:FF:E9:74  
           inet addr:192.168.1.3  Bcast:0.0.0.0  Mask:255.255.255.0
           inet6 addr: fe80::280:64ff:feff:e974/64 Scope:Link
+          inet6 addr: fd26:27b4:1f68:e1d:280:64ff:feff:e974/64 Scope:Global
           UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
-          RX packets:814414 errors:0 dropped:1240 overruns:0 frame:0
-          TX packets:120153 errors:0 dropped:3 overruns:0 carrier:0
+          RX packets:2140 errors:0 dropped:4 overruns:0 frame:0
+          TX packets:5206 errors:0 dropped:2 overruns:0 carrier:0
           collisions:0 txqueuelen:1000 
-          RX bytes:638242656 (608.6 MiB)  TX bytes:24225576 (23.1 MiB)
+          RX bytes:226249 (220.9 KiB)  TX bytes:2268935 (2.1 MiB)
 
 
 *** TIME OF REPORT ***
 
-Thu Aug 13 16:00:00 EDT 2026
+Thu Aug 13 20:00:00 EDT 2026
 
